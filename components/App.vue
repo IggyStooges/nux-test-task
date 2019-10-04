@@ -61,6 +61,7 @@
   }
 
   .steps {
+    width: 30%;
     align-self: center;
     margin-left: auto;
     font-weight: 800;
